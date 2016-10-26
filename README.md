@@ -1,2 +1,5 @@
 # Hello-world
-Repository
+
+Hi Humans
+ 
+Me is a Slime comes from Slimeland.
